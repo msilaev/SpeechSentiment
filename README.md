@@ -55,6 +55,7 @@
 
 5. **Download sentiment analysis model weights**:
    - Download `model.joblib` and `vectorizer.joblib` into the `/models` folder from this [Google Drive link](https://drive.google.com/file/d/14J1_bRLaMnk9yCbfRdr_8LVT_LicS8Wn/view?usp=sharing).
+   - Alternatively, unpack file `/models/model.zip`
 
 ---
 
